@@ -1,5 +1,5 @@
 const baseURL = "http://api.openweathermap.org/data/2.5/weather?zip=" 
-const apiKey = ""; /*&appid=secret_token*/
+const apiKey = /*<&appid=secret_token>*/; 
 const units = "&units=metric";
 
 let feelings = 0;
